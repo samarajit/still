@@ -101,6 +101,4 @@ This checks the sample reader, text size, setting selection, unavailable-model e
 - `submission.md` — DEV challenge submission draft
 - `LICENSE` — MIT
 
-## Publishing
 
-Publish this folder as a public repository, then add the repository URL and a deployed demo or recorded local walkthrough to `submission.md`. The local development preview is not a permanent public deployment. No external repository or public deployment has been created for you.
